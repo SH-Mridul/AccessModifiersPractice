@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "F:\\AccessModifiersPractice\\AccessModifiersPractice\\src\\AccessModifiersPractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB18DA92-D45E-411B-AC46-2341093B4DAF}|DemoLib\\DemoLib.csproj|f:\\accessmodifierspractice\\accessmodifierspractice\\src\\accessmodifierspractice\\demolib\\accessdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB18DA92-D45E-411B-AC46-2341093B4DAF}|DemoLib\\DemoLib.csproj|solutionrelative:demolib\\accessdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB18DA92-D45E-411B-AC46-2341093B4DAF}|DemoLib\\DemoLib.csproj|f:\\accessmodifierspractice\\accessmodifierspractice\\src\\accessmodifierspractice\\demolib\\inheritancedemoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB18DA92-D45E-411B-AC46-2341093B4DAF}|DemoLib\\DemoLib.csproj|solutionrelative:demolib\\inheritancedemoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDA43286-3FBD-4630-B163-96025F7F6295}|AccessModifiersPractice\\AccessModifiersPractice.csproj|f:\\accessmodifierspractice\\accessmodifierspractice\\src\\accessmodifierspractice\\accessmodifierspractice\\inheritancedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDA43286-3FBD-4630-B163-96025F7F6295}|AccessModifiersPractice\\AccessModifiersPractice.csproj|solutionrelative:accessmodifierspractice\\inheritancedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB18DA92-D45E-411B-AC46-2341093B4DAF}|DemoLib\\DemoLib.csproj|f:\\accessmodifierspractice\\accessmodifierspractice\\src\\accessmodifierspractice\\demolib\\anotherinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB18DA92-D45E-411B-AC46-2341093B4DAF}|DemoLib\\DemoLib.csproj|solutionrelative:demolib\\anotherinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB18DA92-D45E-411B-AC46-2341093B4DAF}|DemoLib\\DemoLib.csproj|f:\\accessmodifierspractice\\accessmodifierspractice\\src\\accessmodifierspractice\\demolib\\accessdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB18DA92-D45E-411B-AC46-2341093B4DAF}|DemoLib\\DemoLib.csproj|solutionrelative:demolib\\accessdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDA43286-3FBD-4630-B163-96025F7F6295}|AccessModifiersPractice\\AccessModifiersPractice.csproj|f:\\accessmodifierspractice\\accessmodifierspractice\\src\\accessmodifierspractice\\accessmodifierspractice\\anotherinheritanceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA43286-3FBD-4630-B163-96025F7F6295}|AccessModifiersPractice\\AccessModifiersPractice.csproj|solutionrelative:accessmodifierspractice\\anotherinheritanceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA43286-3FBD-4630-B163-96025F7F6295}|AccessModifiersPractice\\AccessModifiersPractice.csproj|f:\\accessmodifierspractice\\accessmodifierspractice\\src\\accessmodifierspractice\\accessmodifierspractice\\inheritancedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA43286-3FBD-4630-B163-96025F7F6295}|AccessModifiersPractice\\AccessModifiersPractice.csproj|solutionrelative:accessmodifierspractice\\inheritancedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDA43286-3FBD-4630-B163-96025F7F6295}|AccessModifiersPractice\\AccessModifiersPractice.csproj|f:\\accessmodifierspractice\\accessmodifierspractice\\src\\accessmodifierspractice\\accessmodifierspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 133,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "AnotherInheritance.cs",
+              "DocumentMoniker": "F:\\AccessModifiersPractice\\AccessModifiersPractice\\src\\AccessModifiersPractice\\DemoLib\\AnotherInheritance.cs",
+              "RelativeDocumentMoniker": "DemoLib\\AnotherInheritance.cs",
+              "ToolTip": "F:\\AccessModifiersPractice\\AccessModifiersPractice\\src\\AccessModifiersPractice\\DemoLib\\AnotherInheritance.cs",
+              "RelativeToolTip": "DemoLib\\AnotherInheritance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:28:25.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnotherInheritanceClass.cs",
+              "DocumentMoniker": "F:\\AccessModifiersPractice\\AccessModifiersPractice\\src\\AccessModifiersPractice\\AccessModifiersPractice\\AnotherInheritanceClass.cs",
+              "RelativeDocumentMoniker": "AccessModifiersPractice\\AnotherInheritanceClass.cs",
+              "ToolTip": "F:\\AccessModifiersPractice\\AccessModifiersPractice\\src\\AccessModifiersPractice\\AccessModifiersPractice\\AnotherInheritanceClass.cs",
+              "RelativeToolTip": "AccessModifiersPractice\\AnotherInheritanceClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:25:03.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "InheritanceDemoClass.cs",
               "DocumentMoniker": "F:\\AccessModifiersPractice\\AccessModifiersPractice\\src\\AccessModifiersPractice\\DemoLib\\InheritanceDemoClass.cs",
               "RelativeDocumentMoniker": "DemoLib\\InheritanceDemoClass.cs",
@@ -47,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "InheritanceDemo.cs",
               "DocumentMoniker": "F:\\AccessModifiersPractice\\AccessModifiersPractice\\src\\AccessModifiersPractice\\AccessModifiersPractice\\InheritanceDemo.cs",
               "RelativeDocumentMoniker": "AccessModifiersPractice\\InheritanceDemo.cs",
@@ -55,25 +89,24 @@
               "RelativeToolTip": "AccessModifiersPractice\\InheritanceDemo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T10:56:14.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T10:56:14.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AccessDemo.cs",
               "DocumentMoniker": "F:\\AccessModifiersPractice\\AccessModifiersPractice\\src\\AccessModifiersPractice\\DemoLib\\AccessDemo.cs",
               "RelativeDocumentMoniker": "DemoLib\\AccessDemo.cs",
               "ToolTip": "F:\\AccessModifiersPractice\\AccessModifiersPractice\\src\\AccessModifiersPractice\\DemoLib\\AccessDemo.cs",
               "RelativeToolTip": "DemoLib\\AccessDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T10:50:47.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\AccessModifiersPractice\\AccessModifiersPractice\\src\\AccessModifiersPractice\\DemoLib\\Program.cs",
               "RelativeDocumentMoniker": "DemoLib\\Program.cs",
@@ -81,12 +114,11 @@
               "RelativeToolTip": "DemoLib\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T10:50:28.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T10:50:28.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\AccessModifiersPractice\\AccessModifiersPractice\\src\\AccessModifiersPractice\\AccessModifiersPractice\\Program.cs",
               "RelativeDocumentMoniker": "AccessModifiersPractice\\Program.cs",
@@ -94,8 +126,7 @@
               "RelativeToolTip": "AccessModifiersPractice\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T10:49:26.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T10:49:26.579Z"
             }
           ]
         }
